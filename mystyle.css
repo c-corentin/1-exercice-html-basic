@@ -1,0 +1,6 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center; 
+    /*background: rgb(149,149,149);*/
+    background: linear-gradient(0deg, rgba(149,149,149,1) 0%, rgba(238,238,238,1) 100%); 
+}
